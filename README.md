@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @larg829
 - 👀 I’m interested in Rasberry pi
-- 📖 I’m currently learning c++ and phyton and java
+- 📖 I’m currently learning c++, phyton and java
 - 🚁 How to reach me larg#5605
 - 🌍 I am not available because he is on vacation!
 
